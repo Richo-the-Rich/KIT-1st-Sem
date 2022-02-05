@@ -1,2 +1,2 @@
-# KIT-1st-Sem
+# VIT-1st-Sem
 VIT First Semester projects
